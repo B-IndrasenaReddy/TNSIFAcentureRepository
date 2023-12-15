@@ -1,6 +1,5 @@
 # TNSIFAcentureRepository 
-All the programs practiced and executed is pushed here.  
-Name - B Indrasena Reddy 
+All the programs practiced and executed is pushed here.  Name - B Indrasena Reddy 
 <br>
 USN - 1OX20EC007 
 <br>
