@@ -1,2 +1,12 @@
-# TNSIFAcentureRepository
-TNSRepository All the programs practiced and executed is pushed here.  Name - B Indrasena Reddy  USN - 1OX20EC007  Email - indrasenareddy765@gmail.com  College - The Oxford College of Engineering  Program - TNS India Foundation Accenture
+# TNSIFAcentureRepository 
+All the programs practiced and executed is pushed here.  
+<br>
+Name - B Indrasena Reddy 
+<br>
+USN - 1OX20EC007 
+<br>
+Email - indrasenareddy765@gmail.com
+<br>
+College - The Oxford College of Engineering
+<br>
+Program - TNS India Foundation Accenture
